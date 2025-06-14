@@ -59,6 +59,6 @@ This repository contains the completed coursework for the **"R for Bioinformatic
 ##  Contact
 **BENJAMIN ONWUCHEKWA**  
 MSc Bioinformatics | Teesside University  
-📧 [benjaminkingsley77@gmial.com]  
+📧 [benjaminkingsley77@gmail.com]  
 
 
